@@ -103,3 +103,7 @@
 height: 20rem;
 margin-bottom: 1rem;
 }
+
+.breadcrumb {
+    background-color: #ffffff;
+}
