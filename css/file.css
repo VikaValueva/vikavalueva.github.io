@@ -1,0 +1,105 @@
+.header {
+  background-image: url(../img/vrach.jpg);
+  height: 10rem;
+}
+ .menu {
+  background:#000000;
+
+ }
+  .logo {
+  margin-top:3rem;
+ }
+
+  .footer{
+   background:#cc99cc; 
+
+ }
+ 
+   .text_footer{
+   background:#cc99cc;
+   font-family: Helvetica;
+   font-size:18px;
+   color:#ffffff;
+
+ }
+ .text_footer a {color: #ffffff;}
+.footer_a {color: #000000;}
+ 
+ .content{
+   background:#ffffff; 
+   border: solid 1px #E6E6FA;
+
+ }
+  .uslugi_o_nas_kontakty{
+   background:#cc99cc; 
+   font-family: Helvetica;
+   font-size:30px;
+ }
+   .o_nas{
+   background:#cc99cc; 
+   font-family: Helvetica;
+   font-size:30px;
+   
+   }
+ .text_o_nas{
+   margin-top:1rem;
+   }
+ .text_preimuschestva{
+   margin-top:1rem;
+   background:#cc99cc; 
+   font-family: Helvetica;
+   font-size:30px;
+   }
+
+.nav a {
+      color:#ffffff;
+      font-family: Arial;
+      font-size:18px;
+}
+.nav a.active {
+      color:#66ccff;
+      font-family: Arial;
+      font-size:18px;
+}
+   .carousel-caption {
+    background: #cccccc;
+    opacity: 0.8;
+    color: #00000;
+    font-size: 2rem;
+   }
+   .carousel-inner {
+    margin-bottom: 20px;
+}
+
+.emergency_256{
+	background-position: 0 0;
+}
+
+.first_aid_kit_256{
+	background-position: -100px -1px;
+}
+
+.paediatrics_256{
+	background-position: -1px -99px;
+}
+
+.patientdata{
+	background-position: -95px -93px;
+
+}
+
+.btn-primary {
+ background:#cc99cc;
+}
+
+.cardimg {
+	background-image: url("../img/sprites.png");
+	margin: 2rem auto 0px;
+	width: 56px;
+	height: 56px;
+}
+
+.card_main{
+height: 20rem;
+margin-bottom: 1rem;
+}
