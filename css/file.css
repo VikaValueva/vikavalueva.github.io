@@ -4,7 +4,6 @@
 }
  .menu {
   background:#000000;
-
  }
   .logo {
   margin-top:3rem;
@@ -22,14 +21,14 @@
    color:#ffffff;
 
  }
- .text_footer a {color: #ffffff;}
-.footer_a {color: #000000;}
+    .text_footer a {color: #ffffff;}
+     .footer_a {color: #000000;}
  
  .content{
    background:#ffffff; 
    border: solid 1px #E6E6FA;
+    }
 
- }
   .uslugi_o_nas_kontakty{
    background:#cc99cc; 
    font-family: Helvetica;
